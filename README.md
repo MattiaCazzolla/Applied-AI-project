@@ -1,7 +1,7 @@
 # Chest-X-Rays-Image-Classification
 Chest X-Rays Image Classification project made by me ([@stevanna98](https://github.com/stevanna98)) and my collegues for the course Applied AI in Biomedicine at Politecnico di Milano
 - ####  Mattia Cazzolla  ([@MattiaCazzolla](https://github.com/MattiaCazzolla)) mattia.cazzolla@mail.polimi.it
-- ####  Sara Ghezzi () sara1.ghezzi@mail.polimi.it
+- ####  Sara Ghezzi ([@saraghezzi]) sara1.ghezzi@mail.polimi.it
 - ####  Stefano Vannoni ([@stevanna98](https://github.com/stevanna98)) stefano.vannoni@mail.polimi.it
 
 ## Data
