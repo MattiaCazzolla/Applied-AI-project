@@ -11,7 +11,7 @@ The provided dataset contais 15470 labeled images of healthy individuals and ind
 <img src="/imgs/classes.jpeg" alt="">
 </p>
 
-The dataset in unbalanced with the normal, pneumonia and tuberculosis classes representing respectively the 60%, 27% and 13% of the data
+The dataset is unbalanced with the normal, pneumonia and tuberculosis classes representing respectively the 60%, 27% and 13% of the data
 
 ## Models
 
