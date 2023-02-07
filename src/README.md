@@ -1,11 +1,11 @@
 # Folder structure
 
     .
-    ├── dataset_splitting                  # functions used for the splitting in sets
+    ├── dataset_splitting                  # functions used for the resize and splitting in sets
     │   ├── split_and_resize.py          
     │   └── plot_folders.py  
     |
-    ├── models                             # all model notebooks and zip of final model
+    ├── models                             # all models' notebooks and zip of final model
     │   ├── Densenet121
     |   ├── Efficientnetb2
     |   ├── Efficientnetb3
@@ -14,7 +14,7 @@
     |   ├── VGG16
     |   └── model.zip
     |
-    ├── preprocessing                      # binary models and preprocessing function
+    ├── preprocessing                      # binary classifiers and preprocessing function
     │   ├── binary_class_negative.ipynb
     |   ├── binary_class_random.ipynb
     |   └── preprocessing.py
