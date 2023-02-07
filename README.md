@@ -53,3 +53,6 @@ We interpreted the results of our model with different explainability techniques
 <p align="center">
 <img src="/imgs/xai.jpeg" alt="">
 </p>
+
+## License
+This project is licensed under the [MIT](LICENSE) License.
