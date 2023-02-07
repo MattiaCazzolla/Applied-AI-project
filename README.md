@@ -20,13 +20,13 @@ We trained and tested a multitude of models, comparing them with the F1 score me
 <div align="center">
 
 | Model | F1 - Normal | F1 - Pneumonia | F1 - Tuberculosis | 
-|:-----------|:----------------------:|:--:|:--:|
-| SVM (HOGs) | 0.927 | 0.953 | 0.771 |
-| CNN Scratch | 0.969 | 0.980 | 0.882 |
+|:-----------:|:----------------------:|:--:|:--:|
+| SVM (HOGs)     | 0.927 | 0.953 | 0.771 |
+| CNN Scratch    | 0.969 | 0.980 | 0.882 |
 | EfficientNetB2 | **0.982** | 0.981 | **0.936** |
 | EfficientNetB3 | 0.978 | 0.982 | 0.921 |
-| DenseNet121 | 0.968 | 0.976 | 0.883 |
-| VGG16 | 0.974 | **0.983** | 0.900 |
+| DenseNet121    | 0.968 | 0.976 | 0.883 |
+| VGG16          | 0.974 | **0.983** | 0.900 |
   
 </div>
   
@@ -37,7 +37,7 @@ We chose *EfficientNetB2* as our best model and we evaluated it on the test set
 <div align="center">
   
 | Model | F1 - Normal | F1 - Pneumonia | F1 - Tuberculosis | 
-|:-----------|:----------------------:|:--:|:--:|
+|:-----------:|:----------------------:|:--:|:--:|
 | EfficientNetB2 | 0.975 | 0.977 | 0.921 |
   
 </div>
