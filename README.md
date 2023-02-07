@@ -16,6 +16,8 @@ The dataset is unbalanced with the normal, pneumonia and tuberculosis classes re
 ## Models
 
 We trained and tested a multitude of models, comparing them with the F1 score metric on the validation set
+<br>
+<div align="center">
 
 | Model | F1 - Normal | F1 - Pneumonia | F1 - Tuberculosis | 
 |:-----------|:----------------------:|:--:|:--:|
@@ -25,17 +27,25 @@ We trained and tested a multitude of models, comparing them with the F1 score me
 | EfficientNetB3 | 0.978 | 0.982 | 0.921 |
 | DenseNet121 | 0.968 | 0.976 | 0.883 |
 | VGG16 | 0.974 | **0.983** | 0.900 |
-
+  
+</div>
+  
 ## Evaluation
 
 We chose *EfficientNetB2* as our best model and we evaluated it on the test set
-
+<br>
+<div align="center">
+  
 | Model | F1 - Normal | F1 - Pneumonia | F1 - Tuberculosis | 
 |:-----------|:----------------------:|:--:|:--:|
 | EfficientNetB2 | 0.975 | 0.977 | 0.921 |
-
+  
+</div>
 <br>
+
+<p align="center">
 <img src="/imgs/cm.png" alt="">
+</p>
 
 ## XAI
 We interpreted the results of our model with different explainability techniques such as Grad-CAM, Occlusion analysis and LIME
