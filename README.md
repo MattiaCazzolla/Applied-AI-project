@@ -1,4 +1,4 @@
-# Chest-X-Rays-Image-Classification
+# Applied AI in Biomedicine Project
 Chest X-Rays Image Classification project made by my collegues and I ([@MattiaCazzolla](https://github.com/MattiaCazzolla)) for the course Applied AI in Biomedicine at Politecnico di Milano
 - ####  Mattia Cazzolla  ([@MattiaCazzolla](https://github.com/MattiaCazzolla)) mattia.cazzolla@mail.polimi.it
 - ####  Sara Ghezzi ([@saraghezzi](https://github.com/saraghezzi)) sara1.ghezzi@mail.polimi.it
