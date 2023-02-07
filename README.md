@@ -37,3 +37,9 @@ We chose *EfficientNetB2* as our best model and we evaluated it on the test set
 <br>
 <img src="/imgs/cm.png" alt="">
 
+## XAI
+We interpreted the results of our model with different explainability techniques such as Grad-CAM, Occlusion analysis and LIME
+
+<p align="center">
+<img src="/imgs/xai.jpeg" alt="">
+</p>
