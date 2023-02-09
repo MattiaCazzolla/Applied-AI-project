@@ -3,7 +3,7 @@
     .
     ├── dataset_splitting                  # functions used for the resize and splitting in sets
     │   ├── split_and_resize.py          
-    │   └── plot_folders.py  
+    │   └── split_folders.py  
     |
     ├── models                             # all models' notebooks and zip of final model
     │   ├── Densenet121
