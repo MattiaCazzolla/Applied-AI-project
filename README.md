@@ -3,6 +3,7 @@ Chest X-Rays Image Classification project from the course Applied AI in Biomedic
 - ####  Mattia Cazzolla  ([@MattiaCazzolla](https://github.com/MattiaCazzolla)) mattia.cazzolla@mail.polimi.it
 - ####  Sara Ghezzi ([@saraghezzi](https://github.com/saraghezzi)) sara1.ghezzi@mail.polimi.it
 - ####  Stefano Vannoni ([@stevanna98](https://github.com/stevanna98)) stefano.vannoni@mail.polimi.it
+Final grade: 30/30
 
 ## Data
 The provided dataset contais 15470 labeled images of healthy individuals and individuals affected by either Pneumonia or Tuberculosis.
