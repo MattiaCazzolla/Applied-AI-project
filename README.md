@@ -14,6 +14,12 @@ The provided dataset contais 15470 labeled images of healthy individuals and ind
 
 The dataset is unbalanced with the normal, pneumonia and tuberculosis classes representing respectively the 60%, 27% and 13% of the data
 
+## Pipeline
+
+<p align="center">
+<img src="/imgs/schema progetto corino.png" alt="">
+</p>
+
 ## Models
 
 We trained and tested a multitude of models, comparing them with the F1 score metric on the validation set
